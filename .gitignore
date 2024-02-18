@@ -118,3 +118,11 @@ gradle-app.setting
 
 ## Local properties
 local.properties
+
+# VIEW RANKING EXP
+
+.DS_Store
+/apks
+/apks_to_experiment
+/experiments
+/ignored
