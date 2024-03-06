@@ -1,0 +1,4 @@
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+03:09:43.740 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/sesu8642/infusion_timer/MainActivity; a line coverage of: 100.0%
+03:09:43.743 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total line coverage: 100.0%
+03:09:43.743 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total branch coverage: NaN%

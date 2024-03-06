@@ -1,0 +1,21 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (35s)
+[Passed] generated-flow-2 (14s)
+[Passed] generated-flow-3 (30s)
+[Failed] generated-flow-4 (56s) (Element not found: Text matching regex: Bangle.js Gadgetbridge Android companion app for Bangle.js built on top of the Gadgetbridge project.)
+[Passed] generated-flow-5 (8s)
+[Passed] generated-flow-6 (10s)
+[Passed] generated-flow-7 (14s)
+[Passed] generated-flow-8 (14s)
+[Passed] generated-flow-9 (10s)
+[Passed] generated-flow-10 (10s)
+
+1/10 Flow Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_044826

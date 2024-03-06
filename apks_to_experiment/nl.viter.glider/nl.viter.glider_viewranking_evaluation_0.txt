@@ -1,0 +1,4 @@
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+15:01:30.914 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lnl/viter/glider/MainActivity; a line coverage of: 100.0%
+15:01:30.916 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total line coverage: 100.0%
+15:01:30.916 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total branch coverage: NaN%

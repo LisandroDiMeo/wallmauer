@@ -1,0 +1,17 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (5s)
+[Passed] generated-flow-2 (11s)
+[Passed] generated-flow-3 (5s)
+[Passed] generated-flow-4 (4s)
+[Passed] generated-flow-5 (10s)
+[Passed] generated-flow-6 (5s)
+[Passed] generated-flow-7 (24s)
+[Passed] generated-flow-8 (5s)
+[Passed] generated-flow-9 (5s)
+[Passed] generated-flow-10 (26s)
+
+10/10 Flows Passed in 1m 40s
+

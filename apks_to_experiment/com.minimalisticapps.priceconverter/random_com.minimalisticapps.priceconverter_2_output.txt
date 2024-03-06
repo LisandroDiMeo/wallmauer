@@ -1,0 +1,21 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (24s)
+[Passed] generated-flow-2 (28s)
+[Passed] generated-flow-3 (25s)
+[Passed] generated-flow-4 (27s)
+[Passed] generated-flow-5 (4s)
+[Passed] generated-flow-6 (30s)
+[Failed] generated-flow-7 (20s) (Element not found: Text matching regex: content description)
+[Failed] generated-flow-8 (30s) (Element not found: Text matching regex: Azerbaijani manat (AZN) 🇦🇿)
+[Passed] generated-flow-9 (4s)
+[Passed] generated-flow-10 (34s)
+
+2/10 Flows Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_074715

@@ -123,6 +123,5 @@ local.properties
 
 .DS_Store
 /apks
-/apks_to_experiment
 /experiments
 /ignored

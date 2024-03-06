@@ -1,0 +1,21 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Failed] generated-flow-1 (23s) (Element not found: Text matching regex: Aruban florin (AWG) 🇦🇼)
+[Failed] generated-flow-2 (20s) (Element not found: Text matching regex: content description)
+[Passed] generated-flow-3 (4s)
+[Passed] generated-flow-4 (9s)
+[Passed] generated-flow-5 (30s)
+[Passed] generated-flow-6 (15s)
+[Passed] generated-flow-7 (23s)
+[Passed] generated-flow-8 (11s)
+[Passed] generated-flow-9 (3s)
+[Passed] generated-flow-10 (40s)
+
+2/10 Flows Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_071427

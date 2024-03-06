@@ -1,0 +1,10 @@
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+06:01:14.553 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/MainActivity; a line coverage of: 49.6063%
+06:01:14.555 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/ModulesActivity; a line coverage of: 56.233425%
+06:01:14.555 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/services/CustomTabs; a line coverage of: 7.936508%
+06:01:14.555 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/TutorialActivity; a line coverage of: 74.19355%
+06:01:14.555 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/MainActivity; a branch coverage of: 80.0%
+06:01:14.556 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/ModulesActivity; a branch coverage of: 43.589745%
+06:01:14.556 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/TutorialActivity; a branch coverage of: 26.666668%
+06:01:14.557 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total line coverage: 21.703296703296704%
+06:01:14.557 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total branch coverage: 16.292134831460675%

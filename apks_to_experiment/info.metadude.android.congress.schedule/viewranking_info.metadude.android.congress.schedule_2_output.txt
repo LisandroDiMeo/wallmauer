@@ -1,0 +1,21 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (37s)
+[Passed] generated-flow-2 (35s)
+[Passed] generated-flow-3 (30s)
+[Failed] generated-flow-4 (22s) (Element not found: Text matching regex: UFOS, MAGIC, MIND CONTROL, ELECTRONIC WARFARE, AI, AND THE DEATH OF THE INTERNET)
+[Passed] generated-flow-5 (26s)
+[Passed] generated-flow-6 (27s)
+[Passed] generated-flow-7 (30s)
+[Failed] generated-flow-8 (21s) (Element not found: Text matching regex: Digital Identity Systems in the EU & around the world)
+[Passed] generated-flow-9 (8s)
+[Passed] generated-flow-10 (6s)
+
+2/10 Flows Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_101555

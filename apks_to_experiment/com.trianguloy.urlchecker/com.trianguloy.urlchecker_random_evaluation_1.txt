@@ -1,0 +1,12 @@
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+06:48:30.765 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/MainActivity; a line coverage of: 66.14173%
+06:48:30.766 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/ModulesActivity; a line coverage of: 55.437668%
+06:48:30.766 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/services/CustomTabs; a line coverage of: 7.936508%
+06:48:30.767 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/TutorialActivity; a line coverage of: 70.96774%
+06:48:30.767 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/dialogs/MainDialog; a line coverage of: 43.493763%
+06:48:30.767 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/MainActivity; a branch coverage of: 80.0%
+06:48:30.767 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/ModulesActivity; a branch coverage of: 38.46154%
+06:48:30.767 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/TutorialActivity; a branch coverage of: 26.666668%
+06:48:30.767 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/dialogs/MainDialog; a branch coverage of: 49.295773%
+06:48:30.768 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total line coverage: 35.824175824175825%
+06:48:30.769 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total branch coverage: 34.831460674157306%

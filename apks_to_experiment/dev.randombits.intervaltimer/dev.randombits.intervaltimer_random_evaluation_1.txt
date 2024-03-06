@@ -1,0 +1,13 @@
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+05:41:27.461 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/SettingsFragment; a line coverage of: 38.607594%
+05:41:27.462 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/SettingsFragment$$ExternalSyntheticLambda3; a line coverage of: 50.0%
+05:41:27.462 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/SettingsFragment$$ExternalSyntheticLambda4; a line coverage of: 50.0%
+05:41:27.462 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/SettingsFragment$$ExternalSyntheticLambda1; a line coverage of: 50.0%
+05:41:27.463 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/SettingsFragment$$ExternalSyntheticLambda2; a line coverage of: 50.0%
+05:41:27.463 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/SettingsFragment$$ExternalSyntheticLambda0; a line coverage of: 50.0%
+05:41:27.463 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/MainActivity; a line coverage of: 54.411762%
+05:41:27.463 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/SettingsFragment$Companion; a line coverage of: 100.0%
+05:41:27.463 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/MainActivity; a branch coverage of: 33.333336%
+05:41:27.463 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/randombits/intervaltimer/SettingsFragment; a branch coverage of: 14.285715%
+05:41:27.464 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total line coverage: 22.567703109327983%
+05:41:27.465 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total branch coverage: 9.30232558139535%

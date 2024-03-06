@@ -1,0 +1,4 @@
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+08:17:47.338 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/nightdreamgames/grade/ly/MainActivity; a line coverage of: 100.0%
+08:17:47.340 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total line coverage: 100.0%
+08:17:47.341 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total branch coverage: NaN%

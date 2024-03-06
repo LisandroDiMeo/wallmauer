@@ -1,0 +1,42 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (36s)
+[Passed] generated-flow-2 (38s)
+[Passed] generated-flow-3 (39s)
+[Failed] generated-flow-4 (24s) (Element not found: Text matching regex: Show HN
+ Flect – a pure Python full-stack web apps framework inspired by Next.js (github.com)​
+
+3
+0
+6 hours ago
+2024-03-05 09:41:44.000)
+[Failed] generated-flow-5 (21s) (Element not found: Text matching regex: Launch HN
+ Greptile - RAG on codebases that actually works 
+YC W24
+​
+
+87
+71
+3 hours ago
+2024-03-05 12:48:56.000)
+[Passed] generated-flow-6 (35s)
+[Failed] generated-flow-7 (24s) (Element not found: Text matching regex: Radicle: Open-Source, Peer-to-Peer, GitHub Alternative​
+
+560
+187
+10 hours ago
+2024-03-05 05:39:10.000)
+[Failed] generated-flow-8 (25s) (Element not found: Text matching regex: 23 minutes ago
+Hey, our DB was temporarily down from the traffic, sorry about that. Could you try again if you get a chance?
+2024-03-05 15:37:16.000)
+[Passed] generated-flow-9 (37s)
+[Passed] generated-flow-10 (35s)
+
+4/10 Flows Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_160319

@@ -1,0 +1,21 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (30s)
+[Passed] generated-flow-2 (16s)
+[Failed] generated-flow-3 (21s) (Element not found: Id matching regex: dev.bartuzen.qbitcontroller:id/spinner_protocol)
+[Passed] generated-flow-4 (27s)
+[Passed] generated-flow-5 (28s)
+[Passed] generated-flow-6 (30s)
+[Passed] generated-flow-7 (26s)
+[Passed] generated-flow-8 (29s)
+[Passed] generated-flow-9 (28s)
+[Passed] generated-flow-10 (26s)
+
+1/10 Flow Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_111449

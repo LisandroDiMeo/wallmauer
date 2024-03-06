@@ -1,0 +1,21 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (14s)
+[Failed] generated-flow-2 (54s) (Element not found: Id matching regex: org.fdroid.fdroid:id/description_more)
+[Passed] generated-flow-3 (36s)
+[Passed] generated-flow-4 (30s)
+[Passed] generated-flow-5 (29s)
+[Passed] generated-flow-6 (38s)
+[Failed] generated-flow-7 (27s) (Element not found: Id matching regex: org.fdroid.fdroid:id/clear)
+[Passed] generated-flow-8 (10s)
+[Passed] generated-flow-9 (19s)
+[Passed] generated-flow-10 (42s)
+
+2/10 Flows Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_043757

@@ -1,0 +1,54 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Failed] generated-flow-1 (33s) (Element not found: Text matching regex: 148992
+51166
+since March 12, 2008
+2008-03-12 11:11:01.000)
+[Passed] generated-flow-2 (33s)
+[Failed] generated-flow-3 (21s) (Element not found: Text matching regex: Open-source project ZLUDA lets CUDA apps run on AMD GPUs (www.cgchannel.com)​
+
+211
+80
+2 hours ago
+2024-03-05 12:36:27.000)
+[Failed] generated-flow-4 (25s) (Element not found: Text matching regex: Global Economy Approaches Soft Landing, but Risks Remain (www.imf.org)​
+
+28
+3
+1 hour ago
+2024-03-05 13:26:51.000)
+[Passed] generated-flow-5 (38s)
+[Failed] generated-flow-6 (21s) (Element not found: Text matching regex: The Shen Programming Language (shenlanguage.org)​
+
+131
+37
+5 hours ago
+2024-03-05 09:30:22.000)
+[Failed] generated-flow-7 (21s) (Element not found: Text matching regex: Launch HN
+ Greptile - RAG on codebases that actually works 
+YC W24
+​
+
+54
+46
+2 hours ago
+2024-03-05 12:48:56.000)
+[Passed] generated-flow-8 (30s)
+[Passed] generated-flow-9 (38s)
+[Failed] generated-flow-10 (24s) (Element not found: Text matching regex: 51 minutes ago
+We’ve been grappling with making it local but two considerations
+1.
+Haven’t figured out what should trigger updates. Every commit sounds crazy, every save would be perfect but too intensive also.
+2.
+LLMs will not be self hosted. We haven’t been able to get the same results with any smaller LLMs
+To answer your questions we definitely want to make this available for local repos and ideally self hosted, on a technical level that’s probably several month away.
+2024-03-05 14:04:28.000)
+
+6/10 Flows Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_145636

@@ -1,0 +1,60 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (37s)
+[Failed] generated-flow-2 (27s) (Element not found: Text matching regex: Would a £150k wage tempt you to a Scottish island? (www.bbc.com)​
+
+1
+0
+2 minutes ago
+2024-03-05 15:13:08.000)
+[Failed] generated-flow-3 (38s) (Element not found: Text matching regex: 3 minutes ago
+Those are effectively the same thing as system prompts. Sadly they're not a robust solution - models can be trained to place more emphasis on them, but I've never seen a system prompt mechanism like that which can't be broken if the untrusted user input has a long enough length to "trick" the model into doing something else.
+2024-03-05 15:13:22.000)
+[Failed] generated-flow-4 (23s) (Element not found: Text matching regex: Radicle: Open-Source, Peer-to-Peer, GitHub Alternative (app.radicle.xyz)​
+
+545
+180
+9 hours ago
+2024-03-05 05:39:10.000)
+[Failed] generated-flow-5 (21s) (Element not found: Text matching regex: Radicle: Open-Source, Peer-to-Peer, GitHub Alternative (app.radicle.xyz)​
+
+546
+180
+9 hours ago
+2024-03-05 05:39:10.000)
+[Failed] generated-flow-6 (39s) (Element not found: Text matching regex: 17 hours ago
+Technically, when you use Vanilla JS these days, it is mostly like jQuery since most if not all things have been migrated from jQuery to Vanilla JS :)
+2024-03-04 21:22:33.000)
+[Failed] generated-flow-7 (41s) (Element not found: Text matching regex: 20 minutes ago
+That resume thing is a great example of why the lines here are so blurry.
+I didn't notice at the time, but this added a tiny bit of extra confusion because indirect prompt injections (while a very smart term) don't necessarily require string concatenation. They mostly do - they're still usually an example of a trusted prompt ("analyze this resume") concatenated to untrusted input - but there are likely examples of "indirect prompt injection" where the trick is more about the hidden input, not necessarily the concatenation piece.
+Indirect prompt injection is defined in an actual citable paper though, so they did a better job of providing a concrete definition for that term than I did!
+2024-03-05 15:00:15.000)
+[Failed] generated-flow-8 (48s) (Element not found: Text matching regex: 2 weeks ago
+First, just to be clear, I didn't call their code or data structures bad. The only context where I used that word was "make it as easy to write the well-performing version as the bad one", which was talking about the performance, not the code.
+I know nothing about their code or data structures beyond what was in this blog post. I'm just working from the numbers, which don't add up.
+In the interleaved version they're spending about 430 microseconds for each of the editor operations. In the batch version they're spending <2 microseconds. As per the blog post, the order of operations is the same. (The bit about removing overlapping search results is irrelevant, their search term can't self-overlap, so doing that portion in batch doesn't seem relevant.)
+So, given the order of operations is the same, how much cache pressure is there between two calls to the editor data structures in the? The file is tiny and the results are dense. There's a span element on average evey 74 bytes. There's basically no pressure. And still the interleaved version is taking 430 microseconds longer. Given the minimal cache pressure between the calls, it is just impossible for that to be due to cache misses. It'd basically require that having accessed a couple of cachelines worth of (easily prefetchable) data would have the side effect of turning thousands of memory accesses from L1 hits to L3 misses in the next function call. Seems pretty implausible.
+Why do you think that this is a more likely explanation than second order effects from the interleaving? (It doesn't need to be my initial guess of edits resetting the search state, there's plenty of other similar issues where a leaky abstraction causes minor changes in the order of operations to have outsized performance impact. For example, maybe they don't commit edits immediately, but only on the next read operation.)
+2024-02-18 17:44:40.000)
+[Failed] generated-flow-9 (29s) (Element not found: Text matching regex: China to debut large reusable rockets in 2025 and 2026 – SpaceNews​
+
+3
+0
+1 hour ago
+2024-03-05 14:03:22.000)
+[Failed] generated-flow-10 (21s) (Element not found: Text matching regex: The Shen Programming Language (shenlanguage.org)​
+
+140
+42
+5 hours ago
+2024-03-05 09:30:22.000)
+
+9/10 Flows Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_152407

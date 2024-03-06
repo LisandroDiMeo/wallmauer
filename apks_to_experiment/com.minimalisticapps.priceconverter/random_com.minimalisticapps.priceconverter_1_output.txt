@@ -1,0 +1,21 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (5s)
+[Passed] generated-flow-2 (13s)
+[Failed] generated-flow-3 (22s) (Element not found: Text matching regex: Argentine peso (ARS) 🇦🇷)
+[Passed] generated-flow-4 (12s)
+[Passed] generated-flow-5 (22s)
+[Passed] generated-flow-6 (4s)
+[Passed] generated-flow-7 (28s)
+[Passed] generated-flow-8 (15s)
+[Passed] generated-flow-9 (13s)
+[Passed] generated-flow-10 (3s)
+
+1/10 Flow Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_073917

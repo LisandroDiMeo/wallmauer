@@ -1,0 +1,22 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Failed] generated-flow-1 (28s) (Element not found: Text matching regex: Light
+Light)
+[Passed] generated-flow-2 (29s)
+[Passed] generated-flow-3 (9s)
+[Passed] generated-flow-4 (32s)
+[Passed] generated-flow-5 (35s)
+[Passed] generated-flow-6 (36s)
+[Passed] generated-flow-7 (32s)
+[Passed] generated-flow-8 (32s)
+[Passed] generated-flow-9 (31s)
+[Passed] generated-flow-10 (30s)
+
+1/10 Flow Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_091852

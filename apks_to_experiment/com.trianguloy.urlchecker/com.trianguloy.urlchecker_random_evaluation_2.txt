@@ -1,0 +1,11 @@
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+06:59:00.970 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/MainActivity; a line coverage of: 69.29134%
+06:59:00.972 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/TutorialActivity; a line coverage of: 70.96774%
+06:59:00.972 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/ShortcutsActivity; a line coverage of: 56.213017%
+06:59:00.972 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/dialogs/MainDialog; a line coverage of: 47.415333%
+06:59:00.973 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/MainActivity; a branch coverage of: 80.0%
+06:59:00.973 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/TutorialActivity; a branch coverage of: 26.666668%
+06:59:00.973 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/activities/ShortcutsActivity; a branch coverage of: 52.941177%
+06:59:00.973 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Lcom/trianguloy/urlchecker/dialogs/MainDialog; a branch coverage of: 64.788734%
+06:59:00.974 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total line coverage: 30.714285714285715%
+06:59:00.975 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total branch coverage: 37.640449438202246%

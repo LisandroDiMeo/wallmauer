@@ -1,0 +1,21 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (27s)
+[Passed] generated-flow-2 (4s)
+[Passed] generated-flow-3 (27s)
+[Passed] generated-flow-4 (27s)
+[Passed] generated-flow-5 (4s)
+[Passed] generated-flow-6 (3s)
+[Passed] generated-flow-7 (4s)
+[Passed] generated-flow-8 (4s)
+[Passed] generated-flow-9 (32s)
+[Failed] generated-flow-10 (35s) (Element not found: Text matching regex: content description)
+
+1/10 Flow Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_073201

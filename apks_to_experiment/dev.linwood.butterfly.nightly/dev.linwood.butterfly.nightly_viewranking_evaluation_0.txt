@@ -1,0 +1,5 @@
+WARNING: sun.reflect.Reflection.getCallerClass is not supported. This will impact performance.
+08:48:02.562 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/linwood/butterfly/MainActivity; a line coverage of: 58.666664%
+08:48:02.565 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - We have for the class Ldev/linwood/butterfly/MainActivity; a branch coverage of: 33.333336%
+08:48:02.566 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total line coverage: 58.666666666666664%
+08:48:02.567 [main] INFO  de.uni_passau.fim.auermich.basicblockcoverage_evaluation.BasicBlockCoverageEvaluation - Total branch coverage: 33.33333333333333%

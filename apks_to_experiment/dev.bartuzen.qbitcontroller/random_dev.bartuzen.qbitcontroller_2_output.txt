@@ -1,0 +1,21 @@
+Running on emulator-5554
+
+Waiting for flows to complete...
+
+[Passed] generated-flow-1 (5s)
+[Passed] generated-flow-2 (11s)
+[Passed] generated-flow-3 (5s)
+[Passed] generated-flow-4 (9s)
+[Passed] generated-flow-5 (26s)
+[Passed] generated-flow-6 (16s)
+[Failed] generated-flow-7 (40s) (Element not found: Text matching regex: Navigate up)
+[Failed] generated-flow-8 (37s) (Element not found: Id matching regex: dev.bartuzen.qbitcontroller:id/text_click_to_add_server)
+[Passed] generated-flow-9 (27s)
+[Passed] generated-flow-10 (5s)
+
+2/10 Flows Failed
+
+
+==== Debug output (logs & screenshots) ====
+
+/home/lisandro/.maestro/tests/2024-03-05_115419
